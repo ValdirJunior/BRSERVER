@@ -1,6 +1,6 @@
-# BRASa - BRAzilian cities Server
+# BRSERVER - BRAzilian cities Server
 
-A project dedicated pro create a api with all States and Cities of Brazil and with te propose to support SELENA and STICkER
+A project dedicated pro create a api with all States and Cities of Brazil and with te propose to support other applications
 
 ## Built With
 
